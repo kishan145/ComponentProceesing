@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ComponentProcessing.API",
+    "\\ComponentProcessing.API\\ComponentProcessing.API",
+    "\\ComponentProcessing.API\\ComponentProcessing.API\\Data",
+    "\\ComponentProcessing.API\\ComponentProcessing.API\\Models",
+    "\\ComponentProcessing.API\\ComponentProcessing.API\\Properties"
+  ],
+  "SelectedNode": "\\ComponentProcessing.API\\ComponentProcessing.API\\Data\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
